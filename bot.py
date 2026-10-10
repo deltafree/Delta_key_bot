@@ -9,7 +9,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.filters import Command
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-BOT_TOKEN = "PASTE_BOT_TOKEN_HERE"
+BOT_TOKEN = "8969469331:AAEJ9sbRMsOsyPNKXDbw1G2HJ2projaP7PU"
 ADMIN_ID = 761064374
 YOUTUBE_URL = "https://youtube.com/@deltascrip-z2k"
 TG_CHANNEL = "@your_channel"
